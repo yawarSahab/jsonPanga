@@ -1,0 +1,22 @@
+{
+  "name": "jsonpanga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yawarSahab/json-server-custom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yawarSahab/json-server-custom/issues"
+  },
+  "homepage": "https://github.com/yawarSahab/json-server-custom#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
